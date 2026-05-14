@@ -12,8 +12,5 @@ To predict breast cancer using machine learning algorithms.
 
 ## Files
 - breast_cancer_gui.py
-- dataset.csv
-- report.pdf
-
 ## Team Members
 - ALDINI MANOJITHA
